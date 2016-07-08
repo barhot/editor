@@ -1,0 +1,27 @@
+{
+  "name": "editor",
+  "version": "1.0.0",
+  "description": "Test TypeScript | React | Redux application",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barhot/editor.git"
+  },
+  "author": "Eugene Barhatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barhot/editor/issues"
+  },
+  "homepage": "https://github.com/barhot/editor#readme",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2"
+  }
+}
