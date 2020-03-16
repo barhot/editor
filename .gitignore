@@ -44,3 +44,4 @@ typings
 # Ruby's bundler dir
 vendor/
 /.bundle
+locals
